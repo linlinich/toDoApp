@@ -1,0 +1,10 @@
+xcassets:
+  inputs:
+    - ToDoListProject/Images.xcassets
+    - ToDoListProject/Colors.xcassets
+  outputs:
+    templateName: swift5
+    params:
+       forceProvidesNamespaces: true
+       forceFileNameEnum: true
+    output: ToDoListProject/Generated/XCAssets+Generated.swift
